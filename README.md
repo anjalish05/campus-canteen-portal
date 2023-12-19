@@ -15,8 +15,10 @@ For more info, refer to this document
 - Docker Compose
 
 ## Running the Application
-`docker-compose --build`
-`docker-compose up`
+```
+docker-compose --build
+docker-compose up
+```
 - Incase using WSL, use the appropriate syntax of "build" instead of "--build"
 - Use Version 16 of nodeJS.
 <p> Navigate to http://localhost:3050/ in your browser. </p>
