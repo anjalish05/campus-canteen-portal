@@ -8,15 +8,15 @@ Users have the option to search and order various food items. At the same time, 
 For more info, refer to this document
 
 ## Requirements
-NodeJs, nvm
-npm
-MongoDB
-Docker
-Docker Compose
+- NodeJs, nvm
+- npm
+- MongoDB
+- Docker
+- Docker Compose
 
 ## Running the Application
 `docker-compose --build`
 `docker-compose up`
-Incase using WSL, use the appropriate syntax of "build" instead of "--build"
-Use Version 16 of nodeJS.
-Navigate to http://localhost:3050/ in your browser.
+- Incase using WSL, use the appropriate syntax of "build" instead of "--build"
+- Use Version 16 of nodeJS.
+<p> Navigate to http://localhost:3050/ in your browser. </p>
